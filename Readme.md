@@ -6,7 +6,7 @@ React click outside component.
 ## Installation
 
 ```
-$ npm install tj/react-click-outside
+$ npm install @entelo/react-click-outside
 ```
 
 ## Example

@@ -1,6 +1,6 @@
 {
-  "name": "react-click-outside",
-  "version": "1.1.1",
+  "name": "@entelo/react-click-outside",
+  "version": "1.1.2",
   "description": "ClickOutside component for React",
   "keywords": [
     "react",
